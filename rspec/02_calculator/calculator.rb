@@ -4,6 +4,7 @@ end
 def subtract(val1,val2)
     val1-val2
 end
+#core dev bhyii core dev#
 def sum(val)
 	temp=0
 	val.each do |food|
